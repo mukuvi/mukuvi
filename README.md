@@ -8,7 +8,8 @@
 
 # 💫 About Me:
 
-# Professional cyber security analyst specializing in penetration testing, vulnerability assessment and secure web development.<br> Ask me about open source! <br>Fun fact: Music and coding in motion! The harmony of beats and algorithms!
+# Professional cyber security analyst specializing in penetration testing, vulnerability assessment and secure web development.
+<br> Ask me about open source! <br>Fun fact: Music and coding in motion! The harmony of beats and algorithms!
 
 # checkout my badges :
 <div align="left">
