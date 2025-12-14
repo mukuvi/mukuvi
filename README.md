@@ -6,11 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/123395876/233422820-6c62b233-7bf2-4a15-87d3-0b582dc1bad0.png)
 
-# 💫 About Me:
-
-# Professional cyber security analyst specializing in penetration testing, vulnerability assessment and secure web development.
-<br> Ask me about open source! <br>Fun fact: Music and coding in motion! The harmony of beats and algorithms!
-
 # checkout my badges :
 <div align="left">
 <!--             <a href="https://paypal.me/jmngandu" target="_blank" style="display: inline-block;">
