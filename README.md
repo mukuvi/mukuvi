@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/123395876/233422820-6c62b233-7bf2-4a15-87d3-0b582dc1bad0.png)
 
-# checkout my badges :
+
 <div align="left">
 <!--             <a href="https://paypal.me/jmngandu" target="_blank" style="display: inline-block;">
                 <img
@@ -22,8 +22,6 @@
             </a>
 </div>  
 <br/> 
-
-https://www.holopin.io/@jmngandu#badges
 
 <hr>
 
