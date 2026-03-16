@@ -1,6 +1,6 @@
 # ┌─[MUKUVI]<br>
 
-# └──╼ [[PORTFOLIO](https://mukuvi.me/)]<br>
+# └──╼ [[PORTFOLIO](https://mukuvi.vercel.app/)]<br>
 
 # └──╼ $ welcome all and Explore 💫
 
